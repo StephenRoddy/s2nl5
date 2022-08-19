@@ -5,7 +5,8 @@ const Navbar = ( props ) => {
 return (
 
   <nav class="navbar mb-2 navbar-light bg-light shadow ms-2 me-2 ">
-    <a class="navbar-brand mb-0 ms-2" href="#"><h4>Signal to Noise Loops</h4><h5 class ="text-wrap">v5: A Brief Respite</h5></a>
+    <a class="navbar-brand mb-0 ms-2" href="#"><h4>Signal to Noise Loops</h4>
+    <h5 class ="text-wrap">Version 5: A Brief Respite [Not the final subtitle for this version]</h5></a>
   </nav>
   )
 };
